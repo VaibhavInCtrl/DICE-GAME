@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+.heading{
+    padding: 10% 0 0;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 5rem;
+    
+}
+.col-3{
+    padding: 5%;
+}
+.player{
+    font-family: 'Nanum Brush Script', cursive;
+}
+.images{
+    width: 60%;
+}
+.dice-game{
+    padding: 0 0 100%;
+    background-color:#393e46;}
+#color{
+    color: darkcyan;;
+}
+@media (max-width:900px) {
+    .images{
+        width: 100%;
+    }
+    .heading{
+        font-size: 4rem;
+        padding: 20% 0 0;
+    }
+    .player{
+        font-size: 2rem;
+    }
+
+}
