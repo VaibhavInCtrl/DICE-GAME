@@ -22,7 +22,7 @@ body{
     padding: 0 0 100%;
 }
 #color{
-    color: darkcyan;;
+    color: darkcyan;
 }
 @media (max-width:950px) {
     .images{
