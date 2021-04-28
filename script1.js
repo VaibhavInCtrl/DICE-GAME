@@ -18,43 +18,43 @@ winner();
 
 function imgChanger1(){
     if (player1 == "1"){
-        document.querySelector("#image1").src = "Images/dice1.png"
+        document.querySelector("#image1").src = "dice1.png"
     }
     else if (player1 == "2"){
-        document.querySelector("#image1").src = "Images/dice2.png"
+        document.querySelector("#image1").src = "dice2.png"
     }
     else if (player1 == "3"){
-        document.querySelector("#image1").src = "Images/dice3.png"
+        document.querySelector("#image1").src = "dice3.png"
     }
     else if (player1 == "4"){
-        document.querySelector("#image1").src = "Images/dice4.png"
+        document.querySelector("#image1").src = "dice4.png"
     }
     else if (player1 == "5"){
-        document.querySelector("#image1").src = "Images/dice5.png"
+        document.querySelector("#image1").src = "dice5.png"
     }
     else if (player1 == "6"){
-        document.querySelector("#image1").src = "Images/dice6.png"
+        document.querySelector("#image1").src = "dice6.png"
     }
 }
 imgChanger1();
 function imgChanger2(){
     if (player2 == "1"){
-        document.querySelector("#image2").src = "Images/dice1.png"
+        document.querySelector("#image2").src = "dice1.png"
     }
     else if (player2 == "2"){
-        document.querySelector("#image2").src = "Images/dice2.png"
+        document.querySelector("#image2").src = "dice2.png"
     }
     else if (player2 == "3"){
-        document.querySelector("#image2").src = "Images/dice3.png"
+        document.querySelector("#image2").src = "dice3.png"
     }
     else if (player2 == "4"){
-        document.querySelector("#image2").src = "Images/dice4.png"
+        document.querySelector("#image2").src = "dice4.png"
     }
     else if (player2 == "5"){
-        document.querySelector("#image2").src = "Images/dice5.png"
+        document.querySelector("#image2").src = "dice5.png"
     }
     else if (player2 == "6"){
-        document.querySelector("#image2").src = "Images/dice6.png"
+        document.querySelector("#image2").src = "dice6.png"
     }
 }
 imgChanger2();
