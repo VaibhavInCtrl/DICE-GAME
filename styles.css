@@ -2,9 +2,9 @@ body{
     text-align: center;
 }
 .heading{
-    padding: 10% 0 0;
+    padding: 5% 0 0;
     font-family: 'Caveat Brush', cursive;
-    font-size: 5rem;
+    font-size: 7rem;
     
 }
 .col-3{
@@ -12,26 +12,28 @@ body{
 }
 .player{
     font-family: 'Nanum Brush Script', cursive;
+    font-size: 5rem;
+    padding-bottom: 15%;
 }
 .images{
     width: 60%;
 }
 .dice-game{
     padding: 0 0 100%;
-    background-color:#393e46;}
+}
 #color{
     color: darkcyan;;
 }
-@media (max-width:900px) {
+@media (max-width:950px) {
     .images{
         width: 100%;
     }
     .heading{
-        font-size: 4rem;
-        padding: 20% 0 0;
+        padding: 0;
+        font-size: 6rem;
+        padding: 10% 0 0;
     }
     .player{
         font-size: 2rem;
     }
-
 }
